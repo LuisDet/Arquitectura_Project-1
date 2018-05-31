@@ -11,9 +11,9 @@ class Employee:
     def email(self):
         return '{}.{}@Company.com.do'.format(self.firstName, self.lastName)
     
-    #@property
+    #@property','{}','{}')".format(self.firstName, self.lastName, self.pay)
     #def fullname (self):
     #    return '{} {}'.format(self.firstName, self.lastName)
 
     #def __repr__(self):
-    #    return "Employee('{}','{}','{}')".format(self.firstName, self.lastName, self.pay)
+    #    return "Employee('{}
